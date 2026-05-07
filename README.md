@@ -1,1 +1,48 @@
-IyBEbXl0cm8gVmFyaWFueXNpYSDigJQgQUkgQXV0b21hdGlvbiBFbmdpbmVlcgoKPiBJIGJ1aWxkIEFJLXBvd2VyZWQgYXV0b21hdGlvbiB3b3JrZmxvd3MgLS0gZnJvbSBUZWxlZ3JhbSBib3RzIHdpdGggTGFuZ0NoYWluIGFnZW50cyB0byBtdWx0aS1zeXN0ZW0gaW50ZWdyYXRpb25zIGNvbm5lY3RpbmcgQ1JNcywgc3ByZWFkc2hlZXRzLCB2b2ljZSBBUElzLCBhbmQgaW1hZ2UgZ2VuZXJhdGlvbiBwaXBlbGluZXMuCgotICoqTG9jYXRpb246KiogTG9keiwgUG9sYW5kCi0gKipTdGFjazoqKiBuOG4gwrcgTGFuZ0NoYWluIEFnZW50cyDCtyBHUFQtNG8gLyBEQUxMLUUgMyDCtyBBc3NlbWJseUFJIMK3IFRlbGVncmFtIEJvdCBBUEkgwrcgR29vZ2xlIFdvcmtzcGFjZSDCtyBab2hvIENSTSDCtyBLbGF2aXlvCi0gKipDdXJyZW50bHk6KiogQ29tcGxldGluZyBBSSBBdXRvbWF0b3IgY291cnNlIGF0IEdPIElUIEFjYWRlbXkKLSAqKk9wZW4gdG86KiogZnJlZWxhbmNlIHByb2plY3RzIMK3IGZ1bGwtdGltZSBKdW5pb3Igcm9sZXMgaW4gYXV0b21hdGlvbgotICoqRW1haWw6KiogZHJpdmVtYXg4MDBAZ21haWwuY29tCgotLS0KCiMjIFBvcnRmb2xpbyBQcm9qZWN0cyAoMTIrIHByb2R1Y3Rpb24gd29ya2Zsb3dzKQoKfCBQcm9qZWN0IHwgU3RhY2sgfCBXaGF0IGl0IGRvZXMgfAp8LS0tLS0tLS0tfC0tLS0tLS18LS0tLS0tLS0tLS0tLS18CnwgKipUZWxlZ3JhbSBUYXNrIE1hbmFnZXIqKiB8IG44biArIExhbmdDaGFpbiArIEdQVC00by1taW5pICsgU2Vzc2lvbiBNZW1vcnkgfCBNdWx0aS10b29sIEFJIGFnZW50IGZvciB0YXNrIENSVUQgdmlhIG5hdHVyYWwgbGFuZ3VhZ2UuIDMgbW9kdWxhciBzdWItd29ya2Zsb3dzLiBNZW1vcnkgdGllZCB0byBjaGF0IElELiB8CnwgKipBdWRpbyBDYWxsIFByb2Nlc3NpbmcgUGlwZWxpbmUqKiB8IFNjaGVkdWxlciArIEFzc2VtYmx5QUkgKyBHUFQtNG8gKyBab2hvIENSTSArIFNoZWV0cyB8IFNjaGVkdWxlZCBmZXRjaCDihpIgdHJhbnNjcmlwdGlvbiAoc3BlYWtlciBsYWJlbHMpIOKGkiBHUFQgdG9uZSBhbmFseXNpcyDihpIgcGFyYWxsZWwgc3RvcmFnZSBpbiBDUk0gKyBTaGVldHMgfAp8ICoqQUkgQ2hhdCBmb3IgQ2FsbCBTdGF0cyoqIHwgTGFuZ0NoYWluIEFnZW50ICsgR1BULTRvLW1pbmkgKyBNZW1vcnkgfCBDaGF0IGludGVyZmFjZSBmb3IgY2FsbCBzdGF0aXN0aWNzLiBBZ2VudCByZXNvbHZlcyByZWxhdGl2ZSBkYXRlcywgY2FsbHMgc3ViLXdvcmtmbG93LCByZXR1cm5zIHN0cnVjdHVyZWQgcmVwb3J0cy4gfAp8ICoqVm9pY2UtdG8tSW1hZ2UgQm90KiogfCBBc3NlbWJseUFJICsgR1BULTRvLW1pbmkgKyBEQUxMLUUgMyArIFRlbGVncmFtIHwgVm9pY2UgbWVzc2FnZSDihpIgdHJhbnNjcmlwdGlvbiDihpIgR1BUIHByb21wdCBvcHRpbWl6YXRpb24g4oaSIERBTEwtRSAzIGltYWdlLiBSZWFsLXRpbWUgc3RhdHVzIHVwZGF0ZXMuIHwKfCAqKk11bHRpbW9kYWwgU01NIEJvdCoqIHwgVGVsZWdyYW0gKyBDb2RlIG5vZGUgKyBEQUxMLUUgMyArIEdQVC00byArIElubGluZSBLZXlib2FyZCB8IEludGVudC1kcml2ZW4gcm91dGluZy4gUGFyYWxsZWwgaW1hZ2UgKyBjYXB0aW9uIGdlbmVyYXRpb24uIE9uZS1jbGljayBwdWJsaXNoIHRvIGNoYW5uZWwuIHwKfCAqKkVtYWlsIE9yZGVyIEF1dG9tYXRpb24qKiB8IEdtYWlsICsgR1BULTMuNS10dXJibyArIEdvb2dsZSBEb2NzIHwgQUkgZW1haWwgY2xhc3NpZmllciDihpIgSlNPTiBleHRyYWN0aW9uIOKGkiBEb2NzIHRlbXBsYXRlIOKGkiBhdXRvLXJlcGx5IHdpdGggZG9jdW1lbnQgbGluay4gfAp8ICoqV2l4IExlYWQgQ2FwdHVyZSB2MSoqIHwgV2ViaG9vayArIENvZGUgbm9kZSArIFpvaG8gQ1JNICsgU2hlZXRzICsgVGVsZWdyYW0gfCBTaW5nbGUtd2ViaG9vayBmYW4tb3V0IHRvIDMgc3lzdGVtcyBzaW11bHRhbmVvdXNseSB3aXRoIGZpZWxkIG5vcm1hbGl6YXRpb24uIHwKfCAqKldpeCBMZWFkIFNjb3JpbmcgdjIqKiB8IFdlYmhvb2sgKyBHUFQtNG8gKyBTd2l0Y2ggKyBab2hvICsgU2hlZXRzICsgVGVsZWdyYW0gKyBLbGF2aXlvIHwgTExNIGxlYWQgY2xhc3NpZmllciAoaG90L3dhcm0vY29sZCkg4oaSIDMgcGFyYWxsZWwgYnJhbmNoZXMg4oaSIENSTSArIFNoZWV0cyArIFRlbGVncmFtICsgS2xhdml5byBzZWdtZW50LiB8CgotLS0KCiMjIFN0YWNrCgoKCi0tLQoKIyMgTG9va2luZyBGb3IKCi0gRnJlZWxhbmNlIGF1dG9tYXRpb24gcHJvamVjdHMgKG44biwgQUkgaW50ZWdyYXRpb24sIFRlbGVncmFtIGJvdHMpCi0gSnVuaW9yIEF1dG9tYXRpb24gRW5naW5lZXIgLyBBSSBJbnRlZ3JhdGlvbiBEZXZlbG9wZXIgcm9sZXMKLSBDb2xsYWJvcmF0aW9uIG9uIEFJIHdvcmtmbG93IGJ1aWxkcwo=
+# Dmytro Varianysia — AI Automation Engineer
+
+> I build AI-powered automation workflows — from Telegram bots with LangChain agents to multi-system integrations connecting CRMs, spreadsheets, voice APIs, and image generation pipelines.
+
+- **Location:** Lodz, Poland
+- **Stack:** n8n · LangChain Agents · GPT-4o / DALL-E 3 · AssemblyAI · Telegram Bot API · Google Workspace · Zoho CRM · Klaviyo
+- **Currently:** Completing AI Automator course at GO IT Academy
+- **Open to:** freelance projects · full-time Junior roles in automation
+- **Email:** drivemax800@gmail.com
+
+---
+
+## Portfolio Projects (12+ production workflows)
+
+| Project | Stack | What it does |
+|---------|-------|--------------|
+| **Telegram Task Manager** | n8n + LangChain + GPT-4o-mini + Session Memory | Multi-tool AI agent for task CRUD via natural language. 3 modular sub-workflows. Memory tied to chat ID. |
+| **Audio Call Processing Pipeline** | Scheduler + AssemblyAI + GPT-4o + Zoho CRM + Sheets | Scheduled fetch → transcription (speaker labels) → GPT tone analysis → parallel storage in CRM + Sheets |
+| **AI Chat for Call Stats** | LangChain Agent + GPT-4o-mini + Memory | Chat interface for call statistics. Agent resolves relative dates, calls sub-workflow, returns structured reports. |
+| **Voice-to-Image Bot** | AssemblyAI + GPT-4o-mini + DALL-E 3 + Telegram | Voice message → transcription → GPT prompt optimization → DALL-E 3 image. Real-time status updates. |
+| **Multimodal SMM Bot** | Telegram + Code node + DALL-E 3 + GPT-4o + Inline Keyboard | Intent-driven routing. Parallel image + caption generation. One-click publish to channel. |
+| **Email Order Automation** | Gmail + GPT-3.5-turbo + Google Docs | AI email classifier → JSON extraction → Docs template → auto-reply with document link. |
+| **Wix Lead Capture v1** | Webhook + Code node + Zoho CRM + Sheets + Telegram | Single-webhook fan-out to 3 systems simultaneously with field normalization. |
+| **Wix Lead Scoring v2** | Webhook + GPT-4o + Switch + Zoho + Sheets + Telegram + Klaviyo | LLM lead classifier (hot/warm/cold) → 3 parallel branches → CRM + Sheets + Telegram + Klaviyo segment. |
+
+---
+
+## Stack
+
+n8n                main automation platform
+LangChain Agents   Agent + Memory + Tools + $fromAI()
+OpenAI API         GPT-4o, GPT-4o-mini, GPT-3.5-turbo, DALL-E 3
+AssemblyAI         Audio transcription + speaker diarization
+Telegram Bot API   Triggers, routing, inline keyboards, voice, photo
+Google Workspace   Sheets, Docs, Drive, Gmail
+Zoho CRM           Lead management + field mapping
+Klaviyo            Email marketing segmentation
+JavaScript         Code nodes for intent classification & transformations
+
+
+
+---
+
+## Looking For
+
+- Freelance automation projects (n8n, AI integration, Telegram bots)
+- Junior Automation Engineer / AI Integration Developer roles
+- Collaboration on AI workflow builds
