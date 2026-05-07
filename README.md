@@ -4,7 +4,6 @@
 
 - **Location:** Lodz, Poland
 - **Stack:** n8n · LangChain Agents · GPT-4o / DALL-E 3 · AssemblyAI · Telegram Bot API · Google Workspace · Zoho CRM · Klaviyo
-- **Currently:** Completing AI Automator course at GO IT Academy
 - **Open to:** freelance projects · full-time Junior roles in automation
 - **Email:** drivemax800@gmail.com
 
